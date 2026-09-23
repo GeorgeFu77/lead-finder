@@ -1,0 +1,12 @@
+node_modules/
+.DS_Store
+*.log
+
+# private: real businesses' names and phone numbers, scan cursor, demo sites
+leads.json
+roam.json
+sites/
+
+# retired template builder (wrote placeholder reviews)
+sitebuilder.js
+template.html
